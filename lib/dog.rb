@@ -10,7 +10,7 @@ class Dog
   end
   
   def initialize (breed)
-   @breed = breed 
+   @breed= breed 
   end 
   def breed
    @breed
